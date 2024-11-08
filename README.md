@@ -22,8 +22,7 @@ Ensure you have a web browser installed.
 You can run the app locally by opening the index.html file in any browser.
 API Key
 To use the OpenWeatherMap API, sign up at OpenWeatherMap and get your API key. Replace YOUR_API_KEY in the JavaScript code with your actual API key.
-
-Contributing
+Contributing:
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
 License
