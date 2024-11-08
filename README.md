@@ -1,13 +1,14 @@
 Live Weather App
-Description Get real-time weather updates for any city around the world! Simply enter a city name to check the temperature, humidity, wind speed, and weather conditions. Enjoy beautiful background images that change based on the current weather. The app also includes a loading spinner and can automatically detect your location for convenience.
 ![Screenshot 2024-11-08 215504](https://github.com/user-attachments/assets/ba841797-4c96-4940-ade4-672b897d3610)
-Features
+Description:
+Get real-time weather updates for any city around the world! Simply enter a city name to check the temperature, humidity, wind speed, and weather conditions. Enjoy beautiful background images that change based on the current weather. The app also includes a loading spinner and can automatically detect your location for convenience.
+Features:
 Real-time weather data using the OpenWeatherMap API
 User-friendly interface for easy navigation
 Dynamic background images that reflect current weather
 Loading spinner for a smooth user experience
 Automatic location detection using the browser's geolocation API
-Technologies Used
+Technologies Used:
 HTML
 CSS
 JavaScript
